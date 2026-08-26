@@ -101,7 +101,7 @@
 <rect x="610" y="294" width="232" height="1" fill="#313244"/>
 <circle cx="614" cy="316" r="3.5" fill="#a6e3a1"/>
 <text x="626" y="320" fill="#7f849c" font-size="10.5" font-weight="400" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'DejaVu Sans Mono',monospace" opacity="1" text-anchor="start" letter-spacing="0">building</text>
-<text x="700" y="320" fill="#cdd6f4" font-size="10.5" font-weight="400" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'DejaVu Sans Mono',monospace" opacity="1" text-anchor="start" letter-spacing="0">BadBot (UE5)</text>
+<text x="700" y="320" fill="#cdd6f4" font-size="10.5" font-weight="400" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'DejaVu Sans Mono',monospace" opacity="1" text-anchor="start" letter-spacing="0">NyloOs</text>
 <circle cx="614" cy="340" r="3.5" fill="#f9e2af"/>
 <text x="626" y="344" fill="#7f849c" font-size="10.5" font-weight="400" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'DejaVu Sans Mono',monospace" opacity="1" text-anchor="start" letter-spacing="0">learning</text>
 <text x="700" y="344" fill="#cdd6f4" font-size="10.5" font-weight="400" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'DejaVu Sans Mono',monospace" opacity="1" text-anchor="start" letter-spacing="0">Linux internals</text>
